@@ -209,7 +209,9 @@
 <a name="restrictions"/>
 
 ### 3.2.3 Ограничения
-- Frontend: Next.js, TypeScript, Tailwind CSS.  
-- Backend: Node.js (NestJS).  
-- БД: PostgreSQL.  
-- ЯП: TypeScript, JavaScript.  
+
+* **Frontend**: React, TypeScript, Tailwind CSS.
+* **Backend**: Java, Spring Boot.
+* **База данных**: PostgreSQL.
+* **ЯП**: Java (backend), TypeScript (frontend).
+  
